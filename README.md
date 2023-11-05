@@ -8,10 +8,11 @@
 - 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
 
-
-[![Sujeet's Telegram](assets/telegram.svg)](https://t.me/MahtoSujeet)
-[![Sujeet's Instagram](assets/instagram.svg)](https://instagram.com/SujeetVibes)
-
+<!-- TODO fix this, its not showing up -->
+<!--  -->
+<!-- [![Sujeet's Telegram](assets/telegram.svg)](https://t.me/MahtoSujeet) -->
+<!-- [![Sujeet's Instagram](assets/instagram.svg)](https://instagram.com/SujeetVibes) -->
+<!--  -->
 <br><br>
 
 ### 💻 Current working environments
