@@ -13,10 +13,10 @@
 <!-- </a> -->
 
 <a href="https://t.me/MahtoSujeet">
-  <img align="left" alt="Sujeet's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+  <img align="left" alt="Sujeet's Telegram" width="22px" src="./assests/telegram.svg" />
 </a>
 <a href="https://instagram.com/SujeetVibes">
-  <img align="left" alt="Sujeet's Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+  <img align="left" alt="Sujeet's Instagram" width="22px" src="./assets/instagram.svg" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/MahtoSujeet"> -->
 <!--   <img align="left" alt="Sujeet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /> -->
@@ -28,7 +28,7 @@
 <br><br>
 
 ### 💻 Current working environments
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=arch_linux&logoColor=ffffff)](https://archlinux.org)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org)
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
