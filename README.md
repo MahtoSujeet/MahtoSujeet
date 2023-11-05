@@ -1,8 +1,8 @@
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sujeet Roy!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sujeet!</h2>
 
 - 🌱 I’m currently a student of B.Sc. Computer Science from CBLU, Bhiwani.
-- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, MongoDB, ExpressJS, ReactJS, NodeJS, Neovim, Linux.
+- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, ReactJS, NodeJS, Neovim, Linux.
 - 👀 I’m currently preparing for MCA Entrence Exam to get a good college.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
@@ -28,9 +28,9 @@
 <br><br>
 
 ### 💻 Current working environments
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=windows&logoColor=ffffff)](https://archlinux.org)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=arch_linux&logoColor=ffffff)](https://archlinux.org)
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
 ### 💻 Current Work Machine
 #### HP Pavilion x360
