@@ -13,7 +13,6 @@
 <!-- [![Sujeet's Telegram](assets/telegram.svg)](https://t.me/MahtoSujeet) -->
 <!-- [![Sujeet's Instagram](assets/instagram.svg)](https://instagram.com/SujeetVibes) -->
 <!--  -->
-<br><br>
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org)
