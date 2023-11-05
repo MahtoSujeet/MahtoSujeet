@@ -8,22 +8,9 @@
 - 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
 
-<!-- <a href="https://twitter.com/Sujeet2002"> -->
-<!--   <img align="left" alt="Sujeet's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /> -->
-<!-- </a> -->
 
-<a href="https://t.me/MahtoSujeet">
-  <img align="left" alt="Sujeet's Telegram" width="22px" src="./assests/telegram.svg" />
-</a>
-<a href="https://instagram.com/SujeetVibes">
-  <img align="left" alt="Sujeet's Instagram" width="22px" src="./assets/instagram.svg" />
-</a>
-<!-- <a href="https://www.linkedin.com/in/MahtoSujeet"> -->
-<!--   <img align="left" alt="Sujeet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /> -->
-<!-- </a>  -->
-<!--   <a href="https://forum.xda-developers.com/member.php?u=8126733"> -->
-<!--   <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png" /> -->
-<!-- </a> -->
+[![Sujeet's Telegram](assets/telegram.svg)](https://t.me/MahtoSujeet)
+[![Sujeet's Instagram](assets/instagram.svg)](https://instagram.com/SujeetVibes)
 
 <br><br>
 
