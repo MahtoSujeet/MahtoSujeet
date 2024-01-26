@@ -16,7 +16,7 @@
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org)
-[![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
+[![Android 16](https://img.shields.io/badge/Android%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-6/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
 ### 💻 Current Work Machine
