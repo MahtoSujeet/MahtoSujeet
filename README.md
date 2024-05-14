@@ -33,6 +33,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahtoSujeet&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
+<sub>*Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 <br>
 
 <br>
