@@ -1,9 +1,8 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sujeet!</h2>
 
-- 🌱 I’m currently a student of B.Sc. Computer Science from CBLU, Bhiwani.
-- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, ReactJS, NodeJS, Neovim, Linux.
-- 👀 I’m currently preparing for MCA Entrence Exam to get a good college.
+- 🌱 I’m currently a student of MCA at MNNIT Allahabad, Prayagraj.
+- 👀 Languages/Tools I know are C++, Python, ReactJS, NextJS, tailwindCSS, NodeJS, Neovim, Linux.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
@@ -16,7 +15,7 @@
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org)
-[![Android 16](https://img.shields.io/badge/Android%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-6/)
+[![Android 14](https://img.shields.io/badge/Android%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
 ### 💻 Current Work Machine
@@ -24,7 +23,7 @@
 - Intel Core i3-6100U (4) @ 2.30 GHz
 - Intel HD Graphics 520
 - 8GB RAM
-- 1TB HDD
+- 256 SDD
 
 ### ⚙️ &nbsp;Sujeet's GitHub Analytics
 <p align="center">
