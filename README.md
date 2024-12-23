@@ -16,14 +16,14 @@
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org)
 [![Android 14](https://img.shields.io/badge/Android%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
+[![Windows 11](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows11)
 
 ### 💻 Current Work Machine
-#### HP Pavilion x360
-- Intel Core i3-6100U (4) @ 2.30 GHz
-- Intel HD Graphics 520
-- 8GB RAM
-- 256 SDD
+#### MSI Thin 15
+- Intel Core i5-12450H @ 4.40 GHz
+- GeForce RTX 2050
+- 16GB RAM
+- 512 SDD
 
 ### ⚙️ &nbsp;Sujeet's GitHub Analytics
 <p align="center">
