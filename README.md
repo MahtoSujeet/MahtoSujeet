@@ -1,7 +1,7 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sujeet!</h2>
 
-- 🌱 I’m currently a student of MCA at MNNIT Allahabad, Prayagraj.
+- 🌱 I’m currently pursuing MCA at MNNIT Allahabad, Prayagraj.
 - 👀 Languages/Tools I know are C++, Python, ReactJS, NextJS, tailwindCSS, NodeJS, Neovim, Linux.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
