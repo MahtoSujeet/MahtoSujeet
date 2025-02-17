@@ -25,16 +25,34 @@
 - 16GB RAM
 - 512 SDD
 
-### ⚙️ &nbsp;Sujeet's GitHub Analytics
+### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
 <a href="https://github.com/MahtoSujeet">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahtoSujeet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahtoSujeet&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahtoSujeet&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahtoSujeet&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
 <sub>*Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 <br>
 
+### 🏆 My Competitive Programming Journey
+<p align="center">
+  <a href="https://codeforces.com/profile/sujeetmahto">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sujeetmahto&theme=gruvbox&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
+  </a>
+</p>
+<!-- <table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/sujeetmahto">
+        <img src="https://leetcard.jacoblin.cool/sujeetmahto?theme=dark&font=Montserrat&ext=contest&sheets=https://bit.ly/M3NpQr7" alt="LeetCode Stats">
+      </a>
+    </td>
+    <td>
+
+    </td>
+  </tr>
+</table> -->
 <br>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=MahtoSujeet&style=flat-square"/>
