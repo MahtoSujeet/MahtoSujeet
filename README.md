@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing MCA at MNNIT Allahabad, Prayagraj.
 - 👀 Languages/Tools I know are C++, Python, ReactJS, NextJS, tailwindCSS, NodeJS, Neovim, Linux.
 - ✔️ Looking forward to achieve something :)
-- 📫 You can reach me by my email address 'sujeetmehta6@gmail.com'.
+- 📫 You can reach me by my email address 'sujeetmahto.dev@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
 
 <!-- TODO fix this, its not showing up -->
